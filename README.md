@@ -1,4 +1,4 @@
-# Physical Model Project
+# Logical Model Project
 
 This repository contains images of a physical model.
 
