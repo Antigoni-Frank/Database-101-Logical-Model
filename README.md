@@ -4,5 +4,5 @@ This repository contains images of a physical model.
 
 ## Model Images
 
-![Model Image 1](Logical Model with Realtions.png)
+![Model Image 1](Logical Model Final.png)
 
