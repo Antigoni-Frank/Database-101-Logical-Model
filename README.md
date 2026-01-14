@@ -1,6 +1,6 @@
 # Logical Model Project
 
-This repository contains images of a logical model.
+This repository contains images of a logical and physical model from the final project of "Data Tutor" course .
 
 ## Model Images
 
