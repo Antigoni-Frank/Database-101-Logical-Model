@@ -1,6 +1,6 @@
 # Logical Model Project
 
-This repository contains images of a physical model.
+This repository contains images of a logical model.
 
 ## Model Images
 
